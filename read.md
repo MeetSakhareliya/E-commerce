@@ -25,3 +25,4 @@ Create a project with
 * AOT, custom annotation
 * JUnit
 * Uuid vs autoincrement
+* Distributed Locking
